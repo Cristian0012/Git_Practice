@@ -1,0 +1,4 @@
+I created a new version and will be pushing to github now that i was able to solve my previous rebase issue
+
+git pull --rebase origin main
+
